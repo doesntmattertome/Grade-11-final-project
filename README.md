@@ -1,7 +1,7 @@
-This is my final project for the 11th grade in computer science (deeplearning).
+This is my final project in the deep-learning course for the 11th grade. 
 
-In this project I tried to create a neural network that is able to detect regular playing cards(an ace to 5).
+In this project, I tried to create a neural network that can detect regular playing cards(from ace to 5).
 This repository contains:
-The database used in the training and testing of the neural network, the "library" used to build the neural network(in the file: "DL3.py") and the graphical user interface that was used to both build the database and test the model in the real world. 
+The database used in the training and testing of the neural network, the "library" used to build, train and test the neural network(in the file: "DL3.py") and the graphical user interface that was used to both build the database and test the model in the real world. 
 
-This [link](https://docs.google.com/document/d/1j6y3EPRiFue48ZrQFcqP485CExZCYxSqJvUpXSlP32g/edit?usp=sharing) goes to the project's summary and process. 
+This [link](https://docs.google.com/document/d/1j6y3EPRiFue48ZrQFcqP485CExZCYxSqJvUpXSlP32g/edit?usp=sharing) goes to the project's summary and the process of making it. 
